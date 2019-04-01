@@ -69,8 +69,8 @@
 .active {
   color: #26bc8c !important;
 }
-.reservation-btn:hover,
-.reservation-btn:focus {
+.navigation ul li.reservation-btn:hover,
+.navigation ul li.reservation-btn:focus {
   background-color: #04de98;
   outline-style: none;
 }
