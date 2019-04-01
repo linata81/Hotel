@@ -246,13 +246,13 @@
           border-radius: 0.25rem;
   padding: 0.625rem;
 }
-.navigation ul li.reservation-btn span {
-  color: rgba(255, 255, 255, 0.7);
-}
 .navigation ul li.reservation-btn:hover,
 .navigation ul li.reservation-btn:focus {
   background-color: #04de98;
   outline-style: none;
+}
+.navigation ul li.reservation-btn span {
+  color: rgba(255, 255, 255, 0.7);
 }
 .active {
   color: #26bc8c !important;
