@@ -452,8 +452,7 @@ img {
       -ms-transform: rotate(-90deg);
           transform: rotate(-90deg);
 }
-.navigation ul li.reservation-btn:hover,
-.navigation ul li.reservation-btn:focus {
+.navigation ul li.reservation-btn:hover {
   background-color: #04de98 !important;
   outline-style: none;
 }
