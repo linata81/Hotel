@@ -406,7 +406,7 @@ img {
   outline-style: none;
 }
 .custom-color-btn-back {
-  background-color: #26bc8c !important;
+  background-color: #26bc8c;
 }
 .custom-color-btn-back a {
   color: #fff;
