@@ -452,6 +452,6 @@ img {
       -ms-transform: rotate(-90deg);
           transform: rotate(-90deg);
 }
-.reservation-btn:hover {
+.custom-color-btn-back:hover {
   background-color: #04de98 ;
 }
